@@ -1,4 +1,1 @@
-snap-a827ad40
-snap-c627ad2e
-snap-d527ad3d
-snap-d927ad31
+snap-example

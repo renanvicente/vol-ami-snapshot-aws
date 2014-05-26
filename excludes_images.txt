@@ -1,2 +1,1 @@
-ami-19359804
-ami-1b359806
+ami-example

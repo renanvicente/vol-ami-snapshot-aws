@@ -1,5 +1,5 @@
 #!/bin/bash
-# Project Source: https://github.com/renanvicente/aws-snapshot
+# Project Source: https://github.com/renanvicente/vol-ami-snapshot-aws
 # Version:        0.0.1
 # Author:         Renan Vicente
 # Mail:           renanvice@gmail.com
